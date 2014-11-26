@@ -1,8 +1,3 @@
-#include <iostream>
-#include "RandomGenerator.h"
-#include "TokenGenerator.h"
-#include "PacketGenerator.h"
-#include "Bucket.h"
 #include "TokenBucketSimulation.h"
 
 int main()
